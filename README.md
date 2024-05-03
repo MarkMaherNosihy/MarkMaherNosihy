@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Maher</h1>
-<h3 align="center">A passionate full-stack developer from Egypt</h3>
+<h3 align="center">A passionate full-stack developer from Egypt (Angular & .NET)</h3>
 
 - 🌱 I’m currently learning **ASP.NET**
 
