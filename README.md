@@ -38,7 +38,7 @@
     <td width='50%'>
       <h2 align='center'>Sonic Mania</h2>
       <div align='center'>  
-        <a href='https://github.com/MarkMaherNosihy/Sonic-Mania'>
+        <a href='https://github.com/MarkMaherNosihy/Sonic'>
           <img src='images/7.png' alt='XO'/>
         </a>
         <br>
