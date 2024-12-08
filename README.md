@@ -2,6 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Egypt (Angular & .NET)</h3>
 
 - 🌱 I’m currently learning **ASP.NET**
+- MY CV : [Mark_Maher_CV.pdf](https://github.com/user-attachments/files/18051619/Mark_Maher_CV.pdf)
 
 - 📫 How to reach me **markmaher.devs@gmail.com**
 
